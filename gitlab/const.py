@@ -15,6 +15,8 @@
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+DEFAULT_URL = "https://gitlab.com"
+
 NO_ACCESS = 0
 MINIMAL_ACCESS = 5
 GUEST_ACCESS = 10
